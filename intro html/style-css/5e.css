@@ -1,0 +1,41 @@
+p{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.a1{
+  color: orange;
+  margin-bottom: 7;
+}
+.a2{
+  font-weight: bold;
+  font-size: 20px;
+}
+.a3{
+  font-size: 40;
+  font-weight: bold;
+}
+.a4{
+  margin-top: 10;
+  color: gray;
+}
+.b1{
+  padding-left: 15;
+  padding-right: 15;
+  padding-top: 7;
+  padding-bottom: 7;
+  margin-left: 47.5%;
+  margin-top: 14px;
+  background-color: rgb(1, 108, 248);
+  border: none;
+  border-radius: 20px;
+  color: white;
+}
+.b1:active{
+  padding-left: 12;
+  padding-right: 12;
+  padding-top: 5;
+  padding-bottom: 5;
+  margin-left: 47.6%;
+}

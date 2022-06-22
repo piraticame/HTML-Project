@@ -1,0 +1,38 @@
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.a1{
+  
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+.a2{
+  font-size: 17px;
+  color: gray;
+  margin-top: 1px;
+}
+.a3{
+  width: 280px;
+  margin-bottom: 20;
+}
+
+.b1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(25, 136, 25);
+  color: white;
+  padding-top: 10;
+  padding-left: 15;
+  padding-right: 15;
+  padding-bottom: 10;
+  transition: margin-left .05s, padding-top .05s, padding-left .05s, padding-right .05s, padding-bottom .05s;
+}
+.b1:active{
+  margin-left: 2;
+  padding-top: 7;
+  padding-left: 12;
+  padding-right: 12;
+  padding-bottom: 7;
+}

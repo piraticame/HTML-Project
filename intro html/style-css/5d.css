@@ -1,0 +1,20 @@
+p{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+.a1{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.a2{
+  margin-top: 14px;
+}
+.a3{
+  color: rgb(25, 117, 255);
+}
+.a3:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}

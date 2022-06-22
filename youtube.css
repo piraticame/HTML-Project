@@ -1,0 +1,29 @@
+.t1{
+  width: 300px;
+  display: block;
+}
+.search{
+  font-size: 20px;
+  margin-left: 10px;
+  display: block;
+}
+.p1{
+  width: 300px;
+}
+.p2{
+  display: block;
+}
+.p3{
+  display: block;
+}
+
+.div1{
+  width: 300px;
+  display: inline-block;
+}
+.div2{
+  margin-left: 15px;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+}

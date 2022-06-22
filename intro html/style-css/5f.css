@@ -1,0 +1,26 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+.a1{
+ 
+  font-size: 20px;
+}
+.a2{
+  color: gray;
+  font-size: 15px;
+}
+.b1{
+  margin-top: 5px;
+  color: rgb(15, 170, 15);
+  font-size: 11px;
+}
+.c1{
+  color: gray;
+  font-size: 12;
+  margin-top: 4;
+}
+.c2{
+  color: rgb(219, 29, 29);
+}
